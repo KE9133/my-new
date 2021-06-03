@@ -1,0 +1,91 @@
+h1{
+		color:#9C2894;
+}
+
+h2{
+		COLOR:#5A55AC ;
+}
+h4 {
+	color:#40125F  ;
+}
+h1{
+		font-size:40px;
+		text-align:center;
+		color:#711654;
+}
+h2 {
+		font-size:35px;
+}
+h4 { 
+		font-size:30px:
+}
+p{
+	color:#2E1025;
+	font-family:"dancing script";
+	font-size:10px;
+	font-weight:normal;
+	text-align:left;
+	text-decoration:none;
+	text-transform:capitalize;
+	letter-spacing:normal;
+	word-spacing:normal;
+	
+	
+}
+a{
+		color:#7C2160 ;
+		font-size:24px;
+		text-decoration:none;
+		margin:10px 20px;
+		background:#DC5CCB ;
+		display;inline-block;
+		padding:10px 20px;
+		box-shadow:0px 5px #61F0E3
+		
+}
+a:hover {
+		box-shadow:0px 2px #61F0E3
+}
+body {
+		font-size:16px;
+		background:URL(../imagenes/c1.jpeg);
+		
+}
+
+p{
+		font-size:1em;
+}
+div{
+	width:760px;
+	height:230px;
+	background: #F960F5;
+	margin:20px 50px;
+	padding:30px;
+	border:10px solid #873781;
+	display:inline-block;
+	float:left;
+}
+.caja {
+	position:absolute;
+	top:600px;
+	bottom:0px;
+	right:0;
+	left:400px;
+}
+
+img{
+	height:250;
+	width:300;
+	margin:auto;
+	border-radius:10px;
+	display-block:;
+	padding:10px;
+	border:1px solid #701163 
+}
+
+
+ 
+
+
+
+	
